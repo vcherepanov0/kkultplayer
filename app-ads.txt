@@ -1,7 +1,7 @@
 # CAS.ai Updated Aug 29, 2023, support@cleveradssolutions.com
 #=== CASExchange Aug 29, 2023
 cas.ai, 11, DIRECT
-pub-7110377687064981, DIRECT, f08c47fec0942fa0
+google.com, pub-7110377687064981, DIRECT, f08c47fec0942fa0
 adform.com, 2753, RESELLER, 9f5210a2f0999e32
 appbroda.com, 953, DIRECT
 appnexus.com, 15127, RESELLER, f5ab79cb980f11d1
